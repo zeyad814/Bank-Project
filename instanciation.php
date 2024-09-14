@@ -10,6 +10,9 @@ echo serialize($Account1);
 var_dump($Account1);
 
 
+//procedural programming paradigms
+
+
 // $Account2 = new Savings;
 
 // $Account2->APR = 13.0;
