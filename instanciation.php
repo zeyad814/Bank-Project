@@ -60,7 +60,6 @@ var_dump($Account1);
 // }
 
 echo "</pre>";
-var_dump(get_declared_classes());
 
 
 
