@@ -10,8 +10,6 @@ $Account1->WithDraw(150);
 // var_dump($Account1);
 
 //procedural programming paradigms
-//functional programming paradigms
-//Object oriented programming paradigms
 
 // $Account2 = new Savings;
 
