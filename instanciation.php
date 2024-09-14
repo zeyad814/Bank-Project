@@ -6,12 +6,9 @@ $Account1 = new ISA(25,'a7mos','zeyad','qapil','20-20-32',5.4,1000);
 $Account1->Deposit(1000);
 $Account1->WithDraw(200);
 $Account1->WithDraw(150);
-// echo serialize($Account1);
-// var_dump($Account1);
+echo serialize($Account1);
+var_dump($Account1);
 
-//procedural programming paradigms
-//functional programming paradigms
-//Object oriented programming paradigms
 
 // $Account2 = new Savings;
 
